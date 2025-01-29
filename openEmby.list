@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 163
+# 规则统计: 240
 
 DOMAIN-SUFFIX,porn.aca.best
 DOMAIN-SUFFIX,d1irh2o1u9nn50.cloudfront.net
@@ -60,6 +60,12 @@ DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,ccdn.emby.my 
 DOMAIN-SUFFIX,cdn.emby.my
 DOMAIN-SUFFIX,hka-emby3.aliz.work
+DOMAIN-SUFFIX,hkb-emby.aliz.work
+DOMAIN-SUFFIX,hkb-emby2.aliz.work
+DOMAIN-SUFFIX,lite.saturday.video
+DOMAIN-SUFFIX,alist7.eu.org
+DOMAIN-SUFFIX,emby.jingzhe.pro
+DOMAIN-SUFFIX,1024.name
 DOMAIN-SUFFIX,pornemby.com
 IP-CIDR,100.42.230.169/32
 DOMAIN-SUFFIX,favoritewife.com
