@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 240
+# 规则统计: 241
 
 DOMAIN-SUFFIX,porn.aca.best
 DOMAIN-SUFFIX,d1irh2o1u9nn50.cloudfront.net
@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,qdz-hk-1.vfing.de
 DOMAIN-SUFFIX,emby-mica-hk-v4.mius.uk
 DOMAIN-SUFFIX,emby-mica-hk3-v4.mius.uk
 DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,cdn.qzuie.top
 DOMAIN-SUFFIX,wmxz.567996.xyz
 IP-CIDR,154.29.145.151/32
 DOMAIN-SUFFIX,lite.saturday.video
