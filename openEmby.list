@@ -30,11 +30,14 @@ DOMAIN-SUFFIX,581658.best
 DOMAIN-SUFFIX,7777777.buzz
 IP-CIDR,5.45.109.91/32,no-resolve
 IP-CIDR,193.122.114.13/32,no-resolve
+DOMAIN-SUFFIX,stream2.jingzhe.pro
 DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,oversea.alphatvapp.top
 DOMAIN-SUFFIX,pilipili.misakaf.org
 DOMAIN-SUFFIX,pilipili.club
+IP-CIDR,111.229.46.243/32,no-resolve
 DOMAIN-SUFFIX,cf.lilyemby.my
+DOMAIN-SUFFIX,hk.lilyemby.my
 DOMAIN-SUFFIX,cfemby.lilyyaya.top
 DOMAIN-SUFFIX,c.lilyemby.my
 DOMAIN-SUFFIX,emby.awatv.de
@@ -75,6 +78,7 @@ DOMAIN-SUFFIX,alist7.eu.org
 DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,iemby.jingzhe.pro
 DOMAIN-SUFFIX,1024.name
+DOMAIN-SUFFIX,cf.1024.one
 DOMAIN-SUFFIX,pornemby.com
 IP-CIDR,100.42.230.169/32,no-resolve
 DOMAIN-SUFFIX,favoritewife.com
