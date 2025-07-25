@@ -1,11 +1,9 @@
 # 规则名称: Emby
-# 规则统计: 38
+# 规则统计: 43
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,7777777.buzz
-DOMAIN-SUFFIX,hka-emby.aliz.work
-DOMAIN-SUFFIX,hkb-emby.aliz.work
 DOMAIN-SUFFIX,free.28.al
-DOMAIN-SUFFIX,www.tanhuatv.site
+DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,z.sfcj.org
 DOMAIN-SUFFIX,us.nanflix.net
 IP-CIDR,111.229.46.243/32,no-resolve
@@ -40,3 +38,8 @@ DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,emby.zn.al
 DOMAIN-SUFFIX,hmian.sharepoint.com
 DOMAIN-SUFFIX,lite.cn2gias.uk
+DOMAIN-SUFFIX,emby.bangumi.ca
+DOMAIN-SUFFIX,de2.staryuki.me
+DOMAIN-SUFFIX,us3.staryuki.me
+DOMAIN-SUFFIX,de1.staryuki.me
+DOMAIN-SUFFIX,us4.staryuki.me
