@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 43
+# 规则统计: 45
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,free.28.al
@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,de2.staryuki.me
 DOMAIN-SUFFIX,us3.staryuki.me
 DOMAIN-SUFFIX,de1.staryuki.me
 DOMAIN-SUFFIX,us4.staryuki.me
+DOMAIN-SUFFIX,hka-emby.aliz.work
+DOMAIN-SUFFIX,hkb-emby.aliz.work
