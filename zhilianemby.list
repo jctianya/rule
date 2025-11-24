@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 39
+# 规则统计: 41
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,free.28.al
 IP-CIDR,111.229.46.243/32,no-resolve
@@ -40,3 +40,4 @@ DOMAIN-SUFFIX,cf.5msky.com
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
 DOMAIN-SUFFIX,speedtestdeemby.191920.xyz
+DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
