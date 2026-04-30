@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 65
+# 规则统计: 50
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,freestream.startspoint.com
@@ -11,31 +11,16 @@ DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
 DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
 DOMAIN-SUFFIX,mobai.sbs
-DOMAIN-SUFFIX,lite.saturdayvideo.top
 DOMAIN-SUFFIX,lite.saturdayent.top
-DOMAIN-SUFFIX,lilyemby.my
-DOMAIN-SUFFIX,lilyemby.com
-DOMAIN-SUFFIX,tx.lilyemby.com
-DOMAIN-SUFFIX,aliyun.lilyemby.com
-DOMAIN-SUFFIX,origin.lilyemby.cc
+DOMAIN-SUFFIX,free.lilyemby.com
 DOMAIN-SUFFIX,cfstream.lilyya.top
 DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,stream2.jingzhe.pro
-DOMAIN-SUFFIX,entry.zox.show
-DOMAIN-SUFFIX,play.3767483.xyz
-DOMAIN-SUFFIX,rn.chilledmelon.com
-DOMAIN-SUFFIX,emby.chilledmelon.com
-DOMAIN-SUFFIX,seoul.chilledmelon.com
-DOMAIN-SUFFIX,mr.chilledmelon.com
-DOMAIN-SUFFIX,daigua.chilledmelon.com
-DOMAIN-SUFFIX,fra.chilledmelon.com
-DOMAIN-SUFFIX,sjc.chilledmelon.com
+DOMAIN-SUFFIX,v.chilledmelon.com
 DOMAIN-SUFFIX,cf.xgua.de
-DOMAIN-SUFFIX,cf.icgua.de
-DOMAIN-SUFFIX,cf.icegua.de
+DOMAIN-SUFFIX,play.3767483.xyz
 DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,chpro.feiyue.lol
-DOMAIN-SUFFIX,zoxfree.3767483.xyz
 DOMAIN-SUFFIX,emby.heisi.org
 DOMAIN-SUFFIX,emby666.alien666.de5.net
 DOMAIN-SUFFIX,gm.yezi.my
