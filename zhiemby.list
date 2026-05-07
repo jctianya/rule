@@ -1,8 +1,9 @@
 # 规则名称: Emby
-# 规则统计: 39
+# 规则统计: 40
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
+DOMAIN-SUFFIX,us.aemby.de
 DOMAIN-SUFFIX,freestream.startspoint.com
 DOMAIN-SUFFIX,a.emby.my
 DOMAIN-SUFFIX,emby.my
