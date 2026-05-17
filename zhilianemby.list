@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 42
+# 规则统计: 45
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,stream2.jingzhe.pro
 DOMAIN-SUFFIX,v.chilledmelon.com
 DOMAIN-SUFFIX,cf.xgua.de
+DOMAIN-SUFFIX,rn.chilledmelon.com
 DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,fych.feiyue.lol
 DOMAIN-SUFFIX,chpro.feiyue.lol
@@ -39,6 +40,8 @@ DOMAIN-SUFFIX,cf.imetyou.top
 DOMAIN-SUFFIX,emby.dnscf.dpdns.org
 DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
 DOMAIN-SUFFIX,hgemby.qzz.io
+DOMAIN-SUFFIX,111848.xyz
+DOMAIN-SUFFIX,111660.xyz
+DOMAIN-SUFFIX,hgemby.帝acg.xyz
 DOMAIN-SUFFIX,hellohk.me
 DOMAIN-SUFFIX,emby.n150.asia
-DOMAIN-SUFFIX,emby.fastcdn.dpdns.org
