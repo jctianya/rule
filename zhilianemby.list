@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 45
+# 规则统计: 46
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
@@ -45,3 +45,4 @@ DOMAIN-SUFFIX,111660.xyz
 DOMAIN-SUFFIX,hgemby.帝acg.xyz
 DOMAIN-SUFFIX,hellohk.me
 DOMAIN-SUFFIX,tg.eoos.top
+DOMAIN-SUFFIX,nay.007.us.kg
