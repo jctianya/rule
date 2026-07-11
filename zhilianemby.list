@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 50
+# 规则统计: 51
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
 DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
 DOMAIN-SUFFIX,lite.saturdayent.top
 DOMAIN-SUFFIX,free.lilyemby.com
+DOMAIN-SUFFIX,cfstream-edge-v1.fastboostcdn.com
 DOMAIN-SUFFIX,cfstream.lilyya.top
 DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,stream2.jingzhe.pro
