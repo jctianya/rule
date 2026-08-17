@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 54
+# 规则统计: 55
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,public.shrekmedia.org
 DOMAIN-SUFFIX,cf.sfcj.org
 DOMAIN-SUFFIX,cdn.sfcj.org
 DOMAIN-SUFFIX,media.emby.pro
+DOMAIN-SUFFIX,fych.feiyue.lol
 DOMAIN-SUFFIX,emby.ichinosekotomi.com
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
