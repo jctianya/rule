@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 53
+# 规则统计: 54
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,link01.okemby.org
 DOMAIN-SUFFIX,global.uhdnow.com
 DOMAIN-SUFFIX,v1.uhdnow.com
 DOMAIN-SUFFIX,cf.imetyou.top
+DOMAIN-SUFFIX,alisttest.imetyou.top
 DOMAIN-SUFFIX,emby.dnscf.dpdns.org
 DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
 DOMAIN-SUFFIX,hgemby.qzz.io
