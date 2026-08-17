@@ -1,10 +1,8 @@
 # 规则名称: Emby
-# 规则统计: 51
+# 规则统计: 53
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
-DOMAIN-SUFFIX,us.aemby.de
-DOMAIN-SUFFIX,freestream.startspoint.com
 DOMAIN-SUFFIX,a.emby.my
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
@@ -16,22 +14,18 @@ DOMAIN-SUFFIX,cfstream.lilyya.top
 DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,stream2.jingzhe.pro
 DOMAIN-SUFFIX,v.chilledmelon.com
-DOMAIN-SUFFIX,cf.xgua.de
+DOMAIN-SUFFIX,cf.697758.xyz
 DOMAIN-SUFFIX,rn.chilledmelon.com
-DOMAIN-SUFFIX,ch.feiyue.lol
-DOMAIN-SUFFIX,fych.feiyue.lol
-DOMAIN-SUFFIX,chpro.feiyue.lol
 DOMAIN-SUFFIX,emby.heisi.org
 DOMAIN-SUFFIX,emby666.alien666.de5.net
 DOMAIN-SUFFIX,wp.lyezi.cc
 DOMAIN-SUFFIX,streamer-cf.pilipiliultra.com
 DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,emby.bangumi.ca
-DOMAIN-SUFFIX,hka-emby.aliz.work
-DOMAIN-SUFFIX,hkb-emby.aliz.work
 DOMAIN-SUFFIX,public.shrekmedia.org
 DOMAIN-SUFFIX,cf.sfcj.org
 DOMAIN-SUFFIX,cdn.sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
 DOMAIN-SUFFIX,emby.ichinosekotomi.com
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
@@ -45,9 +39,17 @@ DOMAIN-SUFFIX,111848.xyz
 DOMAIN-SUFFIX,111660.xyz
 DOMAIN-SUFFIX,hgemby.帝acg.xyz
 DOMAIN-SUFFIX,hellohk.me
-DOMAIN-SUFFIX,tg.eoos.top
+DOMAIN-SUFFIX,eoos.top
 DOMAIN-SUFFIX,nay.007.us.kg
 DOMAIN-SUFFIX,bb.emby.edu.kg
 DOMAIN-SUFFIX,emby.60442173.xyz
 DOMAIN-SUFFIX,syemby.com
-DOMAIN-SUFFIX,media.emby.pro
+DOMAIN-SUFFIX,lunarisvault.com
+DOMAIN-SUFFIX,tangtang.co
+DOMAIN-SUFFIX,emby.taotu.ink
+DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
+DOMAIN-SUFFIX,emby.yusen.us.ci
+DOMAIN-SUFFIX,embya.yusen.cyou
+DOMAIN-SUFFIX,emby.yusen.cc.cd
+DOMAIN-SUFFIX,gossip.lat
+DOMAIN-SUFFIX,wcf.3msky.com
