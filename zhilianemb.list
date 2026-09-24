@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 56
+# 规则统计: 55
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,test.28.al
@@ -49,7 +49,6 @@ DOMAIN-SUFFIX,emby.60442173.xyz
 DOMAIN-SUFFIX,syemby.com
 DOMAIN-SUFFIX,lunarisvault.com
 DOMAIN-SUFFIX,tangtang.co
-DOMAIN-SUFFIX,emby.taotu.ink
 DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
 DOMAIN-SUFFIX,emby.yusen.us.ci
 DOMAIN-SUFFIX,embya.yusen.cyou
